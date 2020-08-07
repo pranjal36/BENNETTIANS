@@ -14,6 +14,10 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 
 ## A
 - [Atindra Shekhar](https://github.com/atindra305)
+  <details>
+  		<summary>About</summary>
+  		<img src="">
+  </details>
 ## B
 
 ## C
