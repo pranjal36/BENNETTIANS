@@ -60,6 +60,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 ## R
 
 ## S
+- [Saksham Khandelwal](https://github.com/Sakshamkhandelwal123)
+  <details>
+  		<summary>Preview</summary>
+  		<img src="IMAGES/sakshamkhandelwal123.PNG">
+  </details>
+
 
 ## T
 
