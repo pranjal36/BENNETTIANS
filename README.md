@@ -13,7 +13,7 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 ---
 
 ## A
-
+- [Atindra Shekhar](https://github.com/atindra305)
 ## B
 
 ## C
