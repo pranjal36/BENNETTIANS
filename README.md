@@ -19,6 +19,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 ## C
 
 ## D
+- [Decimator Mind](http://github.com/DecimatorMind)
+  <details>
+  		<summary>Surprise</summary>
+  		<img src="https://media.giphy.com/media/lgcUUCXgC8mEo/giphy.gif">
+  </details>
 
 ## E
 
