@@ -16,7 +16,7 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 - [Atindra Shekhar](https://github.com/atindra305)
   <details>
   		<summary>About</summary>
-  		<img src="">
+  		<img src="https://github.com/atindra305/BENNETTIANS/blob/master/Atindra's/Screenshot%202020-08-07%20at%2018.43.41.png">
   </details>
 ## B
 
